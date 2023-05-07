@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+.header
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+Canvas{
+    border:2px solid black;
+}
+#status
+{
+font-size: 18px;
+}
